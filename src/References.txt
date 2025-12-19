@@ -1,0 +1,90 @@
+[1] H. Wang, Z. Zhang, J. Guan, W. Lu, and C. Zhan, “Unraveling GLUT-mediated transcytosis pathway of glycosylated nanodisks,”
+Asian J. Pharm. Sci., vol. 16, no. 1, pp. 120–128, Jan. 2021, doi:
+10.1016/j.ajps.2020.07.001.
+
+[2] W. M. Pardridge, “Drug Transport across the Blood–Brain Barrier,” J.
+Cereb. Blood Flow Metab., vol. 32, no. 11, pp. 1959–1972, Nov. 2012,
+doi: 10.1038/jcbfm.2012.126.
+
+[3] Q. He et al., “Towards Improvements for Penetrating the Blood–Brain
+Barrier—Recent Progress from a Material and Pharmaceutical Perspective,” Cells, vol. 7, no. 4, p. 24, Apr. 2018, doi: 10.3390/cells7040024.
+
+[4] E. Kirit, C. Gokce, B. Altun, and A. Yilmazer, “Nanotherapeutic
+Strategies for Overcoming the Blood–Brain Barrier: Applications in
+Disease Modeling and Drug Delivery,” ACS Omega, vol. 10, no. 30,
+pp. 32606–32625, Aug. 2025, doi: 10.1021/acsomega.5c02206.
+
+[5] S. H. J. Kim, S. Park, A. A. Qutub, and C. A. Hunt, “In Silico Modeling
+of Blood-Brain Barrier: Agent-Based Simulation of Cerebral Glucose
+Transport.”
+
+[6] E. Vendel, V. Rottschafer, and E. C. M. de Lange, “The need for math- ¨
+ematical modelling of spatial drug distribution within the brain,” Fluids
+Barriers CNS, vol. 16, no. 1, p. 12, May 2019, doi: 10.1186/s12987-
+019-0133-x.
+
+[7] S. F. Hathcock et al., “Induction of P-glycoprotein overexpression in
+brain endothelial cells as a model to study blood-brain barrier efflux
+transport,” Front. Drug Deliv., vol. 4, July 2024, doi: 10.3389/fddev.2024.1433453.
+
+[8] G. Sharma, A. R. Sharma, S.-S. Lee, M. Bhattacharya, J.-S. Nam,
+and C. Chakraborty, “Advances in nanocarriers enabled brain targeted
+drug delivery across blood brain barrier,” Int. J. Pharm., vol. 559, pp.
+360–372, Mar. 2019, doi: 10.1016/j.ijpharm.2019.01.056.
+
+[9] M. Sarafraz, M. Nakhjavani, S. Shigdar, F. C. Christo, and B.
+Rolfe, “Modelling of mass transport and distribution of aptamer
+in blood-brain barrier for tumour therapy and cancer treatment,”
+Eur. J. Pharm. Biopharm., vol. 173, pp. 121–131, Apr. 2022, doi:
+10.1016/j.ejpb.2022.03.004.
+
+[10] H. Fan, Q. Cai, and Z. Qin, “Measurement and Modeling of Transport
+Across the Blood–Brain Barrier,” J. Biomech. Eng., vol. 145, no. 8, p.
+080802, Aug. 2023, doi: 10.1115/1.4062737.
+
+[11] J. I. Morrison et al., “Standardized Preclinical In Vitro Blood–Brain
+Barrier Mouse Assay Validates Endocytosis-Dependent Antibody
+Transcytosis Using Transferrin-Receptor-Mediated Pathways,”
+Mol. Pharm., vol. 20, no. 3, pp. 1564–1576, Mar. 2023, doi:
+10.1021/acs.molpharmaceut.2c00768.
+
+[12] G. James and M. Fullstone, “MODELLING THE TRANSPORT OF
+NANOPARTICLES ACROSS THE BLOOD-BRAIN BARRIER USING
+AN AGENT-BASED APPROACH.”
+
+[13] T. D. Azad, J. Pan, I. D. Connolly, A. Remington, C. M. Wilson, and
+G. A. Grant, “Therapeutic strategies to improve drug delivery across the
+blood-brain barrier,” Neurosurg. Focus, vol. 38, no. 3, p. E9, Mar. 2015,
+doi: 10.3171/2014.12.FOCUS14758.
+
+[14] E. Vendel, V. Rottschafer, and E. C. M. de Lange, “Improving the ¨
+Prediction of Local Drug Distribution Profiles in the Brain with a
+New 2D Mathematical Model,” Bull. Math. Biol., vol. 81, no. 9, pp.
+3477–3507, Sept. 2019, doi: 10.1007/s11538-018-0469-4.
+
+[15] G. R. Weatherley, R. P. Araujo, S. J. Dando, and A. L. Jenner,
+“Therapeutic targeting of oligodendrocytes in an agent-based model of
+multiple sclerosis,” June 2025, doi: 10.1101/2025.06.26.661705.
+
+[16] M. Pennisi, G. Russo, S. Motta, and F. Pappalardo, “Agent based
+modeling of the effects of potential treatments over the blood-brain
+barrier in multiple sclerosis,” J. Immunol. Methods, vol. 427, pp. 6–12,
+Dec. 2015, doi: 10.1016/j.jim.2015.08.014.
+
+[17] C. P. Spielvogel et al., “Enhancing Blood–Brain Barrier Penetration Prediction by Machine Learning-Based Integration of Novel and Existing,
+In Silico and Experimental Molecular Parameters from a Standardized
+Database,” J. Chem. Inf. Model., vol. 65, no. 6, pp. 2773–2784, Mar.
+2025, doi: 10.1021/acs.jcim.4c02212.
+
+[18] P. A. Alves, L. C. Camargo, G. M. de Souza, M. R. Mortari, and M.
+Homem-de-Mello, “Computational Modeling of Pharmaceuticals with
+an Emphasis on Crossing the Blood–Brain Barrier,” Pharmaceuticals,
+vol. 18, no. 2, p. 217, Feb. 2025, doi: 10.3390/ph18020217.
+
+[19] E. T. C. Huang et al., “Predicting blood–brain barrier permeability of
+molecules with a large language model and machine learning,” Sci. Rep.,
+vol. 14, no. 1, p. 15844, July 2024, doi: 10.1038/s41598-024-66897-y.
+
+[20] S. M. Chowdhury, T. Lee, and J. K. Willmann, “Ultrasound-guided
+drug delivery in cancer,” Sci. Adv., vol. 5, no. 11, Nov. 2019, doi:
+10.1126/sciadv.aay1344.
