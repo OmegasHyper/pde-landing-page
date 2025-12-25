@@ -16,6 +16,8 @@
     --gradient-1: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
     --gradient-2: linear-gradient(135deg, #f093fb 0%, #f5576c 100%);
     --gradient-3: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%);
+    --gradient-4: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    --gradient-5: linear-gradient(135deg, #b91043 0%, #960535 100%);
     --shadow-sm: 0 1px 2px 0 rgba(0, 0, 0, 0.05);
     --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1);
     --shadow-lg: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
@@ -1391,6 +1393,19 @@ section {
     background: linear-gradient(135deg, #10b981 0%, #059669 100%);
 }
 
+.chart-bar.danger {
+    background: var(--gradient-5);
+}
+
+.chart-bar.no-entry {
+    background: linear-gradient(135deg, #abc3bb 0%, #9caaa6 100%);
+}
+
+
+.chart-bar.optimal {
+    background: var(--gradient-4);
+}
+
 .chart-bar.optimal {
     background: var(--gradient-1);
 }
@@ -1424,12 +1439,17 @@ section {
     border-radius: 3px;
 }
 
-.legend-color.safe {
-    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+.legend-color.danger {
+    background: var(--gradient-5);
 }
 
+.legend-color.no-entry {
+    background: linear-gradient(135deg, #abc3bb 0%, #9caaa6 100%);
+}
+
+
 .legend-color.optimal {
-    background: var(--gradient-1);
+    background: var(--gradient-4);
 }
 
 /* Process Section */
@@ -1502,7 +1522,7 @@ section {
 
 .process-endothelial.recovering {
     margin-right: 2px;
-    animation: cellRecover 2s ease-in-out infinite;
+    animation: cellRecover 5s ease-in-out infinite;
 }
 
 @keyframes cellSeparate {
@@ -1595,25 +1615,25 @@ section {
     background: #fbbf24;
     border-radius: 2px;
     box-shadow: 0 0 10px rgba(251, 191, 36, 0.8);
-    animation: drugEnter 3s ease-in-out infinite;
+    animation: drugEnter 2s ease-in-out infinite -0.65s;
 }
 
 @keyframes drugEnter {
     0% {
-        transform: translate(0, 0);
+        transform: translate(0, 25px);
         opacity: 0;
     }
     30% {
         opacity: 1;
-        transform: translate(-30px, 30px);
+        transform: translate(-50px, 25px);
     }
     70% {
         opacity: 1;
-        transform: translate(-60px, 60px);
+        transform: translate(-120px, 25px);
     }
     100% {
         opacity: 0;
-        transform: translate(-90px, 90px);
+        transform: translate(-170px, 25px);
     }
 }
 
@@ -2455,6 +2475,12 @@ section {
 
     .hero-stats {
         gap: 1.25rem;
+    }
+
+    .brain-svg-solution{
+        width: 55%;
+        height: 55%;
+        transform: translate(40%, 40%);
     }
 }
 
